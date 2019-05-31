@@ -1,0 +1,13 @@
+jetpack
+
+Foundation
+AppCompat, Android KTX, Multidex, Test
+
+Architecture
+Data Binding, Lifecycles, LiveData, Navigation, Paging, Room, ViewModel, WorkManager
+
+Behavior
+Download manager, Media & playback, Notifications, Permissions, Preferences, Sharing, Slices
+
+UI
+Animation & transitions, Auto, Emoji, Fragment, Layout, Palette, TV, Wear OS by Google
